@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = surajchalla@gmail.com
+	name = Suraj Challa
